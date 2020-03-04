@@ -52,4 +52,4 @@ Follow these steps,
 
     > curl localhost:8090/37    
 
-13. Make sure to terminate the EMR cluster after everything is done.    
+13. Make sure to terminate the EMR cluster after everything is done. This will return the recommended movies with their ratings for user id 37    
